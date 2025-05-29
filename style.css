@@ -77,7 +77,19 @@ h4 {
     font-size: 3vh;
     color: white;
 }
-
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vh;
+    color: white;
+    text-align: left;
+}
+footer {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2vh;
+    color: white;
+    margin-top: 20px;
+}
 
 /* Header */
 header {
